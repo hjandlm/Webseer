@@ -7,12 +7,12 @@ _Webseer — Not everything is worth crawling._
 
 </div>
 
----
+
 
 **Webseer** is a semantic web intelligence agent that collects and structures relevant online information based on a user-defined focus.  
 Unlike traditional crawlers, **Webseer navigates the web with intent, understanding content and following meaning rather than blindly scraping links.**
 
----
+
 
 ## 🚀 Key Features
 
@@ -28,24 +28,24 @@ Unlike traditional crawlers, **Webseer navigates the web with intent, understand
 
 It acts more like a research assistant than a bot — performing **contextual search**, **information distillation**, and **structured discovery**.
 
----
+
 
 
 ## 🧪 Example Usage
 
 
----
+
 
 ## 💼 Use Cases
 
 
----
+
 
 ## 📍 Roadmap
 
 
 
----
+
 
 ## ✨ Name Meaning
 
