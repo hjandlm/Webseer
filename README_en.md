@@ -1,5 +1,3 @@
-
-
 <div align='center'>
 
 # ✨Webseer✨
@@ -36,13 +34,18 @@ It acts more like a research assistant than a bot — performing **contextual se
 ## 🧪 Example Usage
 
 
+---
 
 ## 💼 Use Cases
 
 
+---
+
 ## 📍 Roadmap
 
 
+
+---
 
 ## ✨ Name Meaning
 
