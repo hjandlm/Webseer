@@ -2,7 +2,7 @@
 
 # ✨Webseer✨
 
-_Webseer —— 不是什么都值得被爬。_
+_Webseer —— 非万物皆宜收录，唯价值方可入目。_
 
 
 </div>
